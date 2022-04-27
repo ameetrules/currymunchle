@@ -7,5 +7,9 @@ export const words = [
 "lassi",
 "spicy",
 "india",
-"hindu"
+"hindu",
+"drink",
+"munch",
+"tasty",
+"yummy"
   ]
