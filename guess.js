@@ -11,5 +11,6 @@ export const words = [
 "drink",
 "munch",
 "tasty",
-"yummy"
+"yummy",
+"berry"
   ]
